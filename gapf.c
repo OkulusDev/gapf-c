@@ -68,7 +68,7 @@ int main(int argc, char **argv) {
 		puts("");
 	}
 
-	puts("+---------------> END CONTENT <---------------+\n");
+	puts("+----------------> END CONTENT <----------------+\n");
 
 	// Выводим на экран информацию о кол-ве строк
 	printf("%s %s: %d\n", "Строк в файле", argv[1], counter);
